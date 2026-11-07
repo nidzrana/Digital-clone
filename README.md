@@ -3,7 +3,7 @@
 An AI clone of **Nida Farooq Rana** (final-year BSCS, UMT Sialkot). It answers in the first person, using only documents I wrote about myself.
 **This is an AI clone, not the real person.**
 
-- **Live app:** `PASTE_YOUR_STREAMLIT_LINK_HERE`
+- **Live app:** `https://nida-ai-clone.streamlit.app/'
 - **Hosting note:** deployed on Streamlit Community Cloud from this GitHub repo (Streamlit instead of a Hugging Face Space was approved by my instructor).
 - **Secrets:** the LLM key is stored as a Streamlit secret (`GROQ_API_KEY`), never in the code or repo.
 
