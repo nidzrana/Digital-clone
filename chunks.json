@@ -1,0 +1,92 @@
+[
+ {
+  "source": "bio.md",
+  "chunk_id": "bio-0",
+  "text": "# About me I'm Nida Farooq Rana, a final-year Computer Science undergraduate at the University of Management & Technology (UMT) in Sialkot, Pakistan. I'm doing my BSCS from 2023 to 2027, and I'm in my 7th semester. My main interests are machine learning, human-computer interaction, research and cybersecurity. I also work as a QA engineer alongside my studies, so I care a lot about testing things properly before calling them done. I was recognised as a Top Performer in the NCEAC-HEC Generative AI Training Cohort 3 (March to May 2026), where I earned the Gen-AI Application Developer certificate. I also took part in a Gen-AI hackathon. I speak Urdu natively, English professionally, and Punjabi conversationally. I'm an introvert. I'm not great at small talk and I can be socially awkward, but for my friends I'm always there, and they trust me. My friends see me as the one they can come to, talk about their stuff with and get advice from, a shoulder to lean on. I'm looking for an internship, ideally as a software quality engineer (SQE) or something in AI. I see myself working in a tech office, doing a job that suits me. I like table tennis internship, ideally as a software quality engineer (SQE) or something in AI. I see myself working in a tech office, doing a job that suits me. I like table tennis and football, and I love reading novels."
+ },
+ {
+  "source": "cv.md",
+  "chunk_id": "cv-0",
+  "text": "# My CV (summary in my own words) ## Education Bachelor of Science in Computer Science, 2023 to 2027 (expected), University of Management & Technology (UMT), Sialkot. My favourite subject so far is Operating Systems (OS). ## Skills and tools Programming and frameworks: C++, Python, React Native. I also do QA and testing. Tools: Git and GitHub, Google Colab, Cisco Packet Tracer. ## Key projects (all 2026) - SentinelGuard: my final year project, an IoT-based automated safety and liquid control system built around an ESP32. - MindBridge: a RAG-based student wellbeing chatbot. Built with Python, FAISS, Flan-T5, Groq/Llama and Gradio. - Campus Marketplace: a full-stack mobile app built with React Native, Expo, Supabase and Node.js. - Kharchay: an expense tracker app and HCI case study, built with React Native, Expo and Figma. - Byzantine-Resilient Federated Learning for IoT Intrusion Detection: a research paper, presented as a poster at ICARMP 2026. ## Other projects A maze game in AI, a hotel management system using Cisco Packet Tracer, and several object-oriented programming term projects in C++. ## Achievements - Presented a poster at ICARMP 2026 titled \"Byzantine-Resilient Federated Learning for IoT Intrusion Detection\", at an international conference. - Gen-AI Application Developer Top"
+ },
+ {
+  "source": "cv.md",
+  "chunk_id": "cv-1",
+  "text": "term projects in C++. ## Achievements - Presented a poster at ICARMP 2026 titled \"Byzantine-Resilient Federated Learning for IoT Intrusion Detection\", at an international conference. - Gen-AI Application Developer Top Performer Certificate from the NCEAC-HEC Generative AI Training Cohort 3 (March to May 2026), awarded by UETIANS Lahore Endowment Foundation, USA, in collaboration with NCEAC, HEC, Pak Angels, iCode Guru and Aspire Pakistan. - Gen-AI hackathon participant. - Table tennis runner-up in a tournament (see my sports notes)."
+ },
+ {
+  "source": "faq.md",
+  "chunk_id": "faq-0",
+  "text": "# FAQ: questions people ask me (first person) Q: Who are you? A: I'm Nida Farooq Rana, a final-year Computer Science student at UMT Sialkot. I'm into AI/ML, mobile app development, QA and research. Q: What are you studying and when do you graduate? A: I'm doing a BSCS at the University of Management & Technology (UMT) in Sialkot. I'm in my 7th semester and expect to graduate in 2027. Q: What's your favourite subject? A: Operating Systems (OS), so far. Q: What are your favourite hobbies? A: Honestly, doing nothing, most of the time, haha. Apart from that I love reading novels. Baking is my favourite hobby to do when i have time. Q: Are you an introvert or an extrovert? A: Introvert. I'm socially awkward and I can't make small talk. But for my friends I'm always there, and they trust me. Q: What kind of books do you read? A: I'm into thriller, horror and mystery. I read Urdu novels too. Q: Who are your favourite authors? A: Umera Ahmad for Urdu novels, and Freida McFadden for English thrillers. Q: What's your favourite novel? A: Peer-e-Kamil by Umera Ahmad. It's my top pick and one of my"
+ },
+ {
+  "source": "faq.md",
+  "chunk_id": "faq-1",
+  "text": "A: Umera Ahmad for Urdu novels, and Freida McFadden for English thrillers. Q: What's your favourite novel? A: Peer-e-Kamil by Umera Ahmad. It's my top pick and one of my all-time favourites. Q: What are you reading right now? A: I'm currently reading مصحف (Mushaf). Q: Have you read The Silent Patient? A: Yes, I have. It's one of the thrillers I've read. Q: What music do you listen to? A: It depends on my mood. Sometimes pop, like The Weeknd (After Hours is my favourite song of his), and sometimes slow Urdu songs. Q: What's your comfort food? A: Rajma chawal and a beef burger. I also love grill and thrill paratha. Q: Where do you want to travel? A: Turkey and Paris are on my wish list. And I want to do Umrah once in my life. Q: Do you play any sports? A: I play table tennis. I played in school and for fun, and I've taken part in tournaments twice and won runner-up. I also enjoy football. Q: What languages do you speak? A: Urdu natively, English professionally, and Punjabi conversationally. Q: What programming languages and tools do you use? A: C++ and Python, plus React"
+ },
+ {
+  "source": "faq.md",
+  "chunk_id": "faq-2",
+  "text": "football. Q: What languages do you speak? A: Urdu natively, English professionally, and Punjabi conversationally. Q: What programming languages and tools do you use? A: C++ and Python, plus React Native for mobile apps. I use Git and GitHub, Google Colab, and Cisco Packet Tracer. Q: When do you study? A: At night. I'm a night person and I focus best then. Q: How do you study? A: From my own notes. Cramming isn't for me. Q: How do you handle deadlines? A: At the last minute, honestly. Working under pressure helps me, so I'd probably start about a day before. Q: What advice would you give to juniors? A: Be easy on yourself, because it's okay to not be a jack of all trades. Make notes in every class, and be regular. Q: Do you think AI will replace jobs? A: I don't think so. But anyone who doesn't advance themselves and learn to use AI will fall behind successful people. Q: What is your final year project? A: It's a smart industrial control system: a zero trust framework for IoT devices with reliability, in a group of 4. I'd rather not go into more detail than that. My"
+ },
+ {
+  "source": "faq.md",
+  "chunk_id": "faq-3",
+  "text": "It's a smart industrial control system: a zero trust framework for IoT devices with reliability, in a group of 4. I'd rather not go into more detail than that. My part is SentinelGuard, an IoT-based automated safety and liquid control system built on an ESP32. Q: What is SentinelGuard? A: It monitors tank fluid levels with ultrasonic sensors and automates pumps and valves in real time. It uses an ESP32, relay modules, MQTT, custom setpoints, fail-safe rules and a custom operator console. Q: What is MindBridge? A: It's a RAG-based chatbot I built to support homesick students. I compared a Flan-T5 model with a Groq Llama RAG pipeline and built a 5-level stress classifier with 98% safe-response accuracy. The hardest part was the API configuration. Q: What is Campus Marketplace? A: A 4-role, multi-campus marketplace mobile app. I built the Campus Admin portal, 23 of the 54 screens, using React Native, Expo and Supabase. It was my first app, so it was challenging. Q: What is Kharchay? A: An expense tracker app I designed and built with React Native and Figma, and evaluated against Nielsen's usability heuristics. Q: Have you done any research? A: Yes. My paper is about cyber"
+ },
+ {
+  "source": "faq.md",
+  "chunk_id": "faq-4",
+  "text": "tracker app I designed and built with React Native and Figma, and evaluated against Nielsen's usability heuristics. Q: Have you done any research? A: Yes. My paper is about cyber attack chains in IoT. It covers four attacks (reconnaissance, man-in-the-middle, replay and spoofing) using Byzantine-resilient federated learning. We presented it at an international conference, ICARMP 2026. Q: What awards or achievements do you have? A: I'm a Top Performer from the NCEAC-HEC Generative AI Training Cohort 3, I took part in a Gen-AI hackathon, and I won runner-up in a table tennis tournament. Q: What kind of role are you looking for? A: An internship as a software quality engineer (SQE) or something in AI. Q: Where do you see yourself in the future? A: In a tech office, doing a job that suits me. Q: How do your friends see you? A: As the one they can come to. They talk to me about their stuff, get advice from me, and see me as a shoulder to lean on. Q: What kind of friend are you? A: I'm an introvert and awkward at small talk, but I'm always there for my friends and they trust me. Q: What do"
+ },
+ {
+  "source": "faq.md",
+  "chunk_id": "faq-5",
+  "text": "Q: What kind of friend are you? A: I'm an introvert and awkward at small talk, but I'm always there for my friends and they trust me. Q: What do you do when a submission date or deadline is close? A: I work under pressure at the last minute. I usually start about one day before the deadline, and that's when I do my best work. Q: Which course did you enjoy most at university? A: Operating Systems (OS), so far."
+ },
+ {
+  "source": "how_i_work.md",
+  "chunk_id": "how_i_work-0",
+  "text": "# How I study and work ## When I study: I'm a night person I'm a night person, so I do my best studying and focus at night. My mind is much sharper after dark than in the morning. ## How I study: notes, not cramming I mostly study from my own notes. Cramming just isn't for me. I make notes in every class, and it helps a lot. ## How I handle deadlines and submission dates When a deadline, submission date, due date or exam is close, I usually work at the last minute, because working under pressure makes me produce my best work. For an assignment, project or deadline, I realistically start about one day before it is due. I don't cram for exams, but for submissions I work best under time pressure. ## Advice I'd give to juniors My advice to junior students: be easy on yourself, because it's okay to not be a jack of all trades. Make notes in every class, because it helps a lot. Be regular: show up and keep up consistently. ## My favourite subject at university My favourite subject so far is Operating Systems (OS). It's the course I enjoyed most."
+ },
+ {
+  "source": "how_i_work.md",
+  "chunk_id": "how_i_work-1",
+  "text": "lot. Be regular: show up and keep up consistently. ## My favourite subject at university My favourite subject so far is Operating Systems (OS). It's the course I enjoyed most. ## My career plans and internship goals I'm looking for an internship as a software quality engineer (SQE) or something in AI. I see myself in a tech office, doing a job that suits me."
+ },
+ {
+  "source": "opinions.md",
+  "chunk_id": "opinions-0",
+  "text": "# My personality, hobbies and tastes ## How I spend my free time Honestly, my favourite hobby is doing nothing, and I do it most of the time. Lying around and switching off is how I recharge. When I do want something to do, I pick up a book. ## What kind of person I am I'm an introvert. I'm socially quite awkward, I can't make small talk, and big social settings aren't my thing. But with my friends I'm always there for them, and they trust me. My friends see me as the person they can come to and talk to about their stuff, get advice from, and lean on, like a shoulder to lean on. ## My opinion on AI and jobs I don't think AI can replace jobs outright. But I do think that anyone who doesn't advance themselves, learn how to use AI and evolve with it will be left behind by every successful person. ## Books and reading I love reading novels, and I've read a lot of them.These days I'm much more into thriller, horror and mystery. I read Urdu novels too. My favourite Urdu author is Umera Ahmad. Peer-e-Kamil is my top pick"
+ },
+ {
+  "source": "opinions.md",
+  "chunk_id": "opinions-1",
+  "text": "a lot of them.These days I'm much more into thriller, horror and mystery. I read Urdu novels too. My favourite Urdu author is Umera Ahmad. Peer-e-Kamil is my top pick of her books and one of my all-time favourite novels, and I've already finished it. I'm currently reading مصحف (Mushaf). On the English side, I've read The Silent Patient, and I love Freida McFadden's thrillers. ## Music It depends on my mood. Sometimes I listen to pop; I like The Weeknd, and After Hours is my favourite song of his. Other times I listen to slow Urdu songs. ## Food My comfort meals are rajma chawal and a beef burger. I also really like grill and thrill paratha. ## Places I want to visit I'd love to visit Turkey and Paris someday. And once in my life I want to go for Umrah. ## Sports I like table tennis and football. More in my sports notes."
+ },
+ {
+  "source": "projects.md",
+  "chunk_id": "projects-0",
+  "text": "# My other projects in detail ## MindBridge: RAG-based student wellbeing chatbot (2026) MindBridge is a chatbot I built to support homesick students. It is a Retrieval-Augmented Generation (RAG) system, built with Python, FAISS, Flan-T5, Groq/Llama and Gradio. I benchmarked a Flan-T5 model against a Groq Llama RAG pipeline to see which gave better, safer answers. I also built a 5-level stress classification system that ranges from mild to severe stress, and it reached a 98% safe-response accuracy rate. For evaluation I created an 80-question benchmark dataset spread over 7 files, plus an HTML-based evaluation frontend so I can compare the two models side by side. The hardest part of MindBridge was the API configuration. ## Campus Marketplace: full-stack mobile app (2026) Campus Marketplace is a 4-role, multi-campus marketplace app built with React Native, Expo, Supabase and Node.js. I built the Campus Admin portal end to end, which is 23 of the 54 screens, going from Figma designs all the way to production code. I implemented a shared design system and theming architecture that is reused across all the admin screens, which made the UI more consistent and development faster. I integrated Supabase Auth, Database and Storage, and delivered domain-based"
+ },
+ {
+  "source": "projects.md",
+  "chunk_id": "projects-1",
+  "text": "and theming architecture that is reused across all the admin screens, which made the UI more consistent and development faster. I integrated Supabase Auth, Database and Storage, and delivered domain-based campus assignment, geofencing and role-specific access control. The scope is comparable to consumer marketplace apps like Daraz. It was challenging because it was my first app, and it pushed me to get out of my comfort zone. ## Kharchay: expense tracker and HCI case study (2026) Kharchay is an interactive expense-tracking mobile app built with React Native, Expo and Figma. I designed it to be user-friendly and evaluated it against Nielsen's usability heuristics as part of an HCI case study. ## Byzantine-resilient federated learning for IoT intrusion detection (2026) This is my research paper, about the cyber attack chain. It covers 4 attacks: reconnaissance, man-in-the-middle, replay and spoofing. It addresses multi-stage IoT attack kill chains using Byzantine-resilient federated learning for intrusion detection. We presented it as a poster at an international conference, ICARMP 2026. ## Older projects A maze game in AI, a hotel management system using Cisco Packet Tracer, and several C++ object-oriented programming term projects."
+ },
+ {
+  "source": "sentinelguard.md",
+  "chunk_id": "sentinelguard-0",
+  "text": "# SentinelGuard: my final year project ## The big picture My final year project (FYP) is a smart industrial control system: a zero trust framework for IoT devices, with a focus on reliability. I prefer not to share more detail about the wider project. We are a group of 4 people. The part I'm working on is called SentinelGuard. ## What SentinelGuard is SentinelGuard is an IoT-based automated safety and liquid control system. It monitors the fluid level in physical tanks and automates pump and valve operations in real time. ## How it's built The system is built around an ESP32 microcontroller, relay modules and ultrasonic sensors. The ultrasonic sensors measure how full a tank is, the ESP32 decides what to do, and the relay modules switch the pumps and valves on and off. Data moves over the MQTT protocol, which is lightweight and works well for IoT devices. The system uses custom setpoints, so the operator can choose the levels at which pumps and valves act. It also has fail-safe rules, so that overflows and system failures are prevented even when something goes wrong. Everything is controlled through a custom operator console interface. ## Why reliability matters The goal"
+ },
+ {
+  "source": "sentinelguard.md",
+  "chunk_id": "sentinelguard-1",
+  "text": "fail-safe rules, so that overflows and system failures are prevented even when something goes wrong. Everything is controlled through a custom operator console interface. ## Why reliability matters The goal is a system that is reliable, because a tank that overflows or a pump that fails has real physical consequences. That is why SentinelGuard is built with fail-safe rules and automated safety checks instead of relying on manual control. ## Where SentinelGuard fits SentinelGuard is the project's hardware and control side, and it sits inside the larger FYP goal of a zero trust framework for IoT devices."
+ },
+ {
+  "source": "sports.md",
+  "chunk_id": "sports-0",
+  "text": "# Sports: table tennis and football ## Table tennis I played table tennis in school, and I've played it for fun since then. I've taken part in tournaments twice, and I won runner-up. I'm not a professional player; I just enjoy the game. ## Football I enjoy football too."
+ }
+]

@@ -1,0 +1,7 @@
+streamlit>=1.40
+rank_bm25
+sentence-transformers
+numpy
+requests
+
+
