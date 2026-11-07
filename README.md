@@ -68,3 +68,8 @@ python build_index.py
 set GROQ_API_KEY=your_key       (PowerShell: $env:GROQ_API_KEY="your_key")
 streamlit run streamlit_app.py
 ```
+
+## 7. Privacy and security
+- All documents in `data/` are written by me about myself. They contain no phone number, address, ID number, or private details about other people.
+- The clone refuses to share private details such as phone numbers, and says "I don't have that in my notes" for questions its notes do not answer.
+- The LLM API key is stored only as a Streamlit secret (`GROQ_API_KEY`). It is not in the code, the data files or this repo.
